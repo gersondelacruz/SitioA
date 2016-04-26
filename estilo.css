@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #0536FB;
+    background-color: #000000;
 }
 
 table{
@@ -61,7 +61,7 @@ ul, ol {
 
 .nav li a {
 	/*background-color:#000;*/
-	background-color:#090A53;
+	background-color:#4F5159;
 	color:#fff;
 	text-decoration:none;
 	padding:10px 12px;
@@ -70,7 +70,7 @@ ul, ol {
 			
 .nav li a:hover {
 	/*background-color:#434343;*/
-	background-color:#363894;
+	background-color:#96979A;
 }
 			
 .nav li ul {
